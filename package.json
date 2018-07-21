@@ -1,0 +1,23 @@
+{
+  "name": "learndocker",
+  "version": "1.0.0",
+  "description": "repository for learning docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fongelias/learnDocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fongelias/learnDocker/issues"
+  },
+  "homepage": "https://github.com/fongelias/learnDocker#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
