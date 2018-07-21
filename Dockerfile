@@ -15,5 +15,5 @@ COPY . /app
 # expose port 3000
 EXPOSE 3000
 
-# run `npm start` command
+# run `npm start` command 
 CMD ["npm", "start"]
